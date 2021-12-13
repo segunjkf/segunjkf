@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @segunjkf
-- 👀 I’m interested in DevOPps
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me sege.timz12@gmail.com
