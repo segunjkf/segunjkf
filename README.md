@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @segunjkf
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Saka-aiyedun segun 
+- 👀 I’m interested in DevOps and Cloud
+- 🌱 I’m currently learning Python and CLoud
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me sege.timz12@gmail.com
 
