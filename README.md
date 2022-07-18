@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saka-aiyedun Segun 
-- 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning Python and CLoud
+- 👀 I’m interested in DevOps projects
+- 🌱 I’m currently learning DevOps tools
 - 💞️ I’m Open to collaborations 
 - 📫 How to reach me sege.timz12@gmail.com
 
