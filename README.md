@@ -2,7 +2,7 @@
   <a href="https://www.edisonlee55.com"><img src="banner.png" alt=""></a>
 </p>
 
-<h1 align="center">Hi, I'm Saka-Aiyedun segun!👋🏾</h1>
+<h1 align="center">Hi, I'm Saka-Aiyedun Segun!👋🏾</h1>
 <h1 align="center">Welcome to my GitHub profile! 🎉</h1>
 
 <p align="center">
