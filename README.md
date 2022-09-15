@@ -5,7 +5,7 @@
 
 <!-- ![](logo.jpg) -->
 
-I am a DevOps Engineer ☁️, tech lover and Technical Writer 💻
+I am a DevOps Engineer ☁️, tech lover and a Technical Writer 💻
 
 I am very passionate about tech and the cloud.
 
