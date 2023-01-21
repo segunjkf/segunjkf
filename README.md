@@ -1,21 +1,9 @@
 <h3 align="center">👋 Hi, I'm Saka-Aiyedun Segun </h3>
 <p align="center">
-  <a href="https://medium.com/@Saka-aiyedun.segun">📖 Blog</a> • 
-</p>
+ 
 
-<!-- ![](logo.jpg) -->
 
-I am a DevOps Engineer ☁️, tech lover and a Technical Writer 💻
-
-I am very passionate about tech and the cloud.
-
-🔭 I’m currently working on building secure pipelines.
-
-🌱 I’m currently learning more about DevOps, DevSecOps, Kubernetes observability
-
-👯 I’m looking to collaborate on DevOps SRE and Cloud related projects
-
-💬 Ask me about IAC, CI/CD and anything DevOps related
+I am a **DevOps Engineer**. I publish technical articles to share my knowledge and view on the IT world.
 
 ⚡ Fun fact: I love Football
 
@@ -25,9 +13,36 @@ I am very passionate about tech and the cloud.
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=FFE873&logo=Python&logoColor=4B8BBE&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) 
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) 
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+
+In my Github profile I keep a complete list of all the articles I have written. So please have a look :smile:
 
 
+ ### kubernetes and Observability 
+
+ [Building and Managing a Kubernetes Cluster Using Kubeadm](https://earthly.dev/blog/k8cluster-mnging-blding-kubeadm/)
+ 
+ [Kubernetes GitOps with FluxCD](https://earthly.dev/blog/k8s-gitops-with-fluxcd/)
+
+ [Why pre-deployment observability is crucial to software engineering success](https://www.treno.io/why-pre-deployment-observability-is-crucial-to-software-engineering-success/)
+ 
+ [Grafana & Prometheus Kubernetes Cluster Monitoring](https://earthly.dev/blog/grafana-and-prometheus-k8s/)
+
+ [Understanding kubernetes Operators]()
+
+### All About DevOps
+
+ [Introduction to Serverless Databases](https://fauna.com/blog/intro-to-serverless-databases)
+
+ [A High-Level Overview of DevOps](https://medium.com/faun/a-high-level-overview-of-devops-ce0971477756)
+
+ [CI/CD In Basic Terms](https://medium.com/faun/ci-cd-in-basic-terms-8cf739914d20)
+
+ [why you should choose linux](https://medium.com/faun/why-you-should-choose-linux-692db33a3465)
+
+ [Proxy, Reverse Proxy: What Are They And Why They Matter](https://medium.com/faun/proxy-reverse-proxy-what-are-they-and-why-they-matter-425be98c1ddf)
+
+Please see my [meduim](https://medium.com/@Saka-aiyedun.segun) page for more articles I've written.
 #### Profile Visits 
 
 ![visitors](https://komarev.com/ghpvc/?username=segun)
