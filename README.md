@@ -45,7 +45,7 @@ In my Github profile I keep a complete list of all the articles I have written. 
 Please see my [meduim](https://medium.com/@Saka-aiyedun.segun) page for more articles I've written.
 #### Profile Visits 
 
-![visitors](https://komarev.com/ghpvc/?username=segun)
+
 
 ### :mailbox: Contact me!
 
