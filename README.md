@@ -28,7 +28,7 @@ In my Github profile I keep a complete list of all the articles I have written. 
  
  [Grafana & Prometheus Kubernetes Cluster Monitoring](https://earthly.dev/blog/grafana-and-prometheus-k8s/)
 
- [Understanding kubernetes Operators]()
+ [Understanding kubernetes Operators](https://earthly.dev/blog/kubernetes-operators/)
 
 ### All About DevOps
 
