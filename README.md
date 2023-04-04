@@ -29,6 +29,8 @@ In my Github profile I keep a complete list of all the articles I have written. 
  [Grafana & Prometheus Kubernetes Cluster Monitoring](https://earthly.dev/blog/grafana-and-prometheus-k8s/)
 
  [Understanding kubernetes Operators](https://earthly.dev/blog/kubernetes-operators/)
+ 
+ [AWS S3 Backup and Recovery With Restic](https://earthly.dev/blog/aws-s3-backup-recovery-restic/)
 
 ### All About DevOps
 
