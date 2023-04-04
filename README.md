@@ -30,9 +30,10 @@ In my Github profile I keep a complete list of all the articles I have written. 
 
  [Understanding kubernetes Operators](https://earthly.dev/blog/kubernetes-operators/)
  
- [AWS S3 Backup and Recovery With Restic](https://earthly.dev/blog/aws-s3-backup-recovery-restic/)
 
 ### All About DevOps
+ 
+ [AWS S3 Backup and Recovery With Restic](https://earthly.dev/blog/aws-s3-backup-recovery-restic/)
 
  [Introduction to Serverless Databases](https://fauna.com/blog/intro-to-serverless-databases)
 
