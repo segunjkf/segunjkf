@@ -34,6 +34,9 @@ In my Github profile I keep a complete list of all the articles I have written. 
  
 
 ### All About DevOps
+  [Why pre-deployment observability is crucial to software engineering success](https://www.treno.io/why-pre-deployment-observability-is-crucial-to-software-engineering-success/)
+  
+ [Monitoring System Metrics With Grafana and Prometheus](https://earthly.dev/blog/monitoring-system-metrics-prometheus-grafana/)
  
  [AWS S3 Backup and Recovery With Restic](https://earthly.dev/blog/aws-s3-backup-recovery-restic/)
 
