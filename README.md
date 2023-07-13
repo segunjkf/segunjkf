@@ -23,8 +23,6 @@ In my Github profile I keep a complete list of all the articles I have written. 
  [Building and Managing a Kubernetes Cluster Using Kubeadm](https://earthly.dev/blog/k8cluster-mnging-blding-kubeadm/)
  
  [Kubernetes GitOps with FluxCD](https://earthly.dev/blog/k8s-gitops-with-fluxcd/)
-
- [Why pre-deployment observability is crucial to software engineering success](https://www.treno.io/why-pre-deployment-observability-is-crucial-to-software-engineering-success/)
  
  [Grafana & Prometheus Kubernetes Cluster Monitoring](https://earthly.dev/blog/grafana-and-prometheus-k8s/)
 
