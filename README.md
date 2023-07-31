@@ -15,39 +15,6 @@ I am a **DevOps Engineer**. I publish technical articles to share my knowledge a
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
-In my Github profile I keep a complete list of all the articles I have written. So please have a look :smile:
-
-
- ### kubernetes and Observability 
-
- [Building and Managing a Kubernetes Cluster Using Kubeadm](https://earthly.dev/blog/k8cluster-mnging-blding-kubeadm/)
- 
- [Kubernetes GitOps with FluxCD](https://earthly.dev/blog/k8s-gitops-with-fluxcd/)
- 
- [Grafana & Prometheus Kubernetes Cluster Monitoring](https://earthly.dev/blog/grafana-and-prometheus-k8s/)
-
- [Understanding kubernetes Operators](https://earthly.dev/blog/kubernetes-operators/)
- 
- [Log Aggregation with Grafana Loki on Kubernetes](https://earthly.dev/blog/grafana-loki-log-aggregation-k8s/)
- 
-
-### All About DevOps
-  [Why pre-deployment observability is crucial to software engineering success](https://www.treno.io/why-pre-deployment-observability-is-crucial-to-software-engineering-success/)
-  
- [Monitoring System Metrics With Grafana and Prometheus](https://earthly.dev/blog/monitoring-system-metrics-prometheus-grafana/)
- 
- [AWS S3 Backup and Recovery With Restic](https://earthly.dev/blog/aws-s3-backup-recovery-restic/)
-
- [Introduction to Serverless Databases](https://fauna.com/blog/intro-to-serverless-databases)
-
- [A High-Level Overview of DevOps](https://medium.com/faun/a-high-level-overview-of-devops-ce0971477756)
-
- [CI/CD In Basic Terms](https://medium.com/faun/ci-cd-in-basic-terms-8cf739914d20)
-
- [why you should choose linux](https://medium.com/faun/why-you-should-choose-linux-692db33a3465)
-
- [Proxy, Reverse Proxy: What Are They And Why They Matter](https://medium.com/faun/proxy-reverse-proxy-what-are-they-and-why-they-matter-425be98c1ddf)
-
 Please see my [meduim](https://medium.com/@Saka-aiyedun.segun) page for more articles I've written.
 #### Profile Visits 
 
