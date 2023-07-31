@@ -15,7 +15,6 @@ I am a **DevOps Engineer**. I publish technical articles to share my knowledge a
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 
-Please see my [meduim](https://medium.com/@Saka-aiyedun.segun) page for more articles I've written.
 #### Profile Visits 
 
 ![visitors](https://komarev.com/ghpvc/?username=segun)
