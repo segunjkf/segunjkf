@@ -23,7 +23,6 @@ I am a **DevOps Engineer**. I publish technical articles to share my knowledge a
 
 [![Twitter Badge](https://img.shields.io/badge/-@kaytheog_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/kaytheog) [![Linkedin Badge](https://img.shields.io/badge/-Saka_Aiyedun_Segun-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun-saka-aiyedun-3807981b9/) 
 
-[![Segun's's GitHub stats](https://github-readme-stats.vercel.app/api?username=segunjkf&count_private=true&show_icons=true&theme=radical)](https://github.com/segunjkf/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=segunjkf&langs_count=5&theme=radical&hide=ruby )]()
 <!--
 **segunjkf/segunjkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
