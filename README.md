@@ -2,9 +2,6 @@
 <p align="center">
  
 
-
-I am a **DevOps Engineer**. I publish technical articles to share my knowledge and view on the IT world.
-
 ⚡ Fun fact: I love Football
 
 #### Top Technologies and Stack ⚡️
@@ -19,7 +16,6 @@ I am a **DevOps Engineer**. I publish technical articles to share my knowledge a
 
 ![visitors](https://komarev.com/ghpvc/?username=segun)
 
-### :mailbox: Contact me!
 
 <!--
 **segunjkf/segunjkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
